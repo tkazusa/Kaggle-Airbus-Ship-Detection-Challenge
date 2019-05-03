@@ -1,4 +1,4 @@
-# Kaggle　Airbus　Ship　Detection　Challenge
+# Kaggle Airbus Ship Detection Challenge
 A brief solution for [Kaggle　Airbus　Ship　Detection　Challenge](https://www.kaggle.com/c/airbus-ship-detection).
 
 ## Requirements
